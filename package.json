@@ -1,0 +1,15 @@
+{
+  "name": "can-webpack-prefetch-already",
+  "private": true,
+  "scripts": {
+    "build": "webpack",
+    "test": "node test.js"
+  },
+  "devDependencies": {
+    "prettier": "2.3.0"
+  },
+  "dependencies": {
+    "webpack": "5.39.0",
+    "webpack-cli": "4.7.0"
+  }
+}
