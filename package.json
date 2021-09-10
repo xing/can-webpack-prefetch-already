@@ -9,7 +9,7 @@
     "prettier": "2.4.0"
   },
   "dependencies": {
-    "webpack": "5.52.0",
+    "webpack": "5.52.1",
     "webpack-cli": "4.8.0"
   }
 }
