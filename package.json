@@ -6,7 +6,7 @@
     "test": "node test.js"
   },
   "devDependencies": {
-    "prettier": "3.0.0"
+    "prettier": "3.0.1"
   },
   "dependencies": {
     "webpack": "5.88.2",
