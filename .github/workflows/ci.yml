@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Checking out the branch
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Use Node.js 14
         uses: actions/setup-node@v4
